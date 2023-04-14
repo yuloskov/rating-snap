@@ -2794,7 +2794,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@metamask/utils@npm:^5.0.0":
+"@metamask/utils@npm:^5.0.0, @metamask/utils@npm:^5.0.1":
   version: 5.0.1
   resolution: "@metamask/utils@npm:5.0.1"
   dependencies:
@@ -15388,6 +15388,7 @@ __metadata:
     "@metamask/snaps-cli": ^0.30.0
     "@metamask/snaps-types": ^0.30.0
     "@metamask/snaps-ui": ^0.30.0
+    "@metamask/utils": ^5.0.1
     "@typescript-eslint/eslint-plugin": ^5.33.0
     "@typescript-eslint/parser": ^5.33.0
     eslint: ^8.21.0
