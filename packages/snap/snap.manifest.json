@@ -1,13 +1,13 @@
 {
   "version": "0.1.0",
   "description": "A snap for checking the identity of a user.",
-  "proposedName": "Identity Snap",
+  "proposedName": "Score Snap",
   "repository": {
     "type": "git",
     "url": "https://github.com/MetaMask/template-snap-monorepo.git"
   },
   "source": {
-    "shasum": "mt8dnfuraGAnxD2KtCoGZEVNYU7QYq5UKLgStDlvGTY=",
+    "shasum": "AwF75Bi1hjqXrMzUN2TVubqPSisJMw8wPTFrp8bBQs4=",
     "location": {
       "npm": {
         "filePath": "dist/bundle.js",
